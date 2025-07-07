@@ -1,4 +1,3 @@
-# CMPE-259
 
 # 🧠 Virtual Assistant for Learning Python
 
@@ -42,7 +41,7 @@ This project is a **domain-specific Question Answering (QA) system** that helps 
 
 ### 5. Evaluation
 - Metric: Cosine similarity between generated and ground truth answers
-- Threshold for correctness: Similarity > 0.4
+- Threshold for correctness: Similarity > 0.6
 - Additional metrics: Response time, completeness
 
 ---
